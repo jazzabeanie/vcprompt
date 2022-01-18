@@ -12,7 +12,7 @@ INSTALL
 
 Download vcprompt, make it executable and add it to your prompt:
 
-    $ curl -sL https://github.com/djl/vcprompt/raw/master/bin/vcprompt > ~/bin/vcprompt
+    $ curl -sL https://github.com/jazzabeanie/vcprompt/raw/master/bin/vcprompt -o ~/.bin/vcprompt
     $ chmod 755 ~/bin/vcprompt
 
 For bash, you'll want to do something like this:
